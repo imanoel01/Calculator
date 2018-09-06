@@ -1,0 +1,11 @@
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\Imaoel\Imaoel\Imaoel\bin\Debug\netstandard2.0\Imaoel.deps.json
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\Imaoel\Imaoel\Imaoel\bin\Debug\netstandard2.0\Imaoel.dll
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\Imaoel\Imaoel\Imaoel\bin\Debug\netstandard2.0\Imaoel.pdb
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\Imaoel\Imaoel\Imaoel\obj\Debug\netstandard2.0\Imaoel.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\Imaoel\Imaoel\Imaoel\obj\Debug\netstandard2.0\Imaoel.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\Imaoel\Imaoel\Imaoel\obj\Debug\netstandard2.0\Imaoel.App.xaml.g.cs
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\Imaoel\Imaoel\Imaoel\obj\Debug\netstandard2.0\Imaoel.MainPage.xaml.g.cs
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\Imaoel\Imaoel\Imaoel\obj\Debug\netstandard2.0\Imaoel.AssemblyInfoInputs.cache
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\Imaoel\Imaoel\Imaoel\obj\Debug\netstandard2.0\Imaoel.AssemblyInfo.cs
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\Imaoel\Imaoel\Imaoel\obj\Debug\netstandard2.0\Imaoel.dll
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\Imaoel\Imaoel\Imaoel\obj\Debug\netstandard2.0\Imaoel.pdb
